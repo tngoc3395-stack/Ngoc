@@ -1,0 +1,55 @@
+{
+    name: "David Herdon"
+    height: 6'-05"
+    weight: 205 lb
+};
+{
+    name: "Matthew Brook"
+    height: 6'-03"
+    weight: 215 lb
+};
+{
+    name: "Brad Lidge"
+    height: 6'-05"
+    weight: 210 lb
+};
+{
+    name: "Jamie Mayer"
+    height: 6'-02"
+    weight: 185 lb
+};
+{
+    name: "Mike Gload"
+    height: 6'-00"
+    weight: 210 lb
+};
+{
+    name: "Brian Bocock"
+    height: 6'-02"
+    weight: 190 lb
+};
+{
+    name: "Juan Castro"
+    height: 6'-11"
+    weight: 205 lb
+};
+{
+    name: "Ryan Howard"
+    height: 5'-11"
+    weight: 200 lb
+};
+{
+    name: "Jimmy Rolling"
+    height: 5'-08"
+    weight: 185 lb
+};
+{
+    name: "Ben Francisco"
+    height: 6'-11"
+    weight: 190 lb
+};
+{
+    name: "Ross Gload"
+    height: 6'-02"
+    weight: 195 lb
+}
